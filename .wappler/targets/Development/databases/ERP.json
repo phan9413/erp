@@ -1,0 +1,11 @@
+{
+  "type": "sqlite3",
+  "connection": {
+    "filename": "/ERP.sqlite3"
+  },
+  "direct": true,
+  "schema": {
+    "tables": {},
+    "views": {}
+  }
+}
